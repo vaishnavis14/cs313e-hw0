@@ -1,1 +1,1 @@
-A list of DNA sequences will be given in a file to compare. The program will compare 2 sequences at a time and list out the longest common sequences in alphabetical order.
+This project is designed to analyze a list of DNA sequences from a file, comparing them pairwise to identify and return the longest common subsequences in alphabetical order. The program processes two sequences at a time, ensuring that all potential matches are considered and duplicates are eliminated before presenting the results.
